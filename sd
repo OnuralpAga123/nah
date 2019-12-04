@@ -5,6 +5,5 @@ Message : 'new',
 ChangeLog : 'nothing',
 isClose : 'true',
 filename : 'rick.png',
-status : 'Güncel Değil',
-
+sta : 'Güncel Değil'
 }
